@@ -217,6 +217,9 @@ $ yarn build
 It will generate the dist folder
 
 > Change entities dir to `./dist/database/entities/*.js` in ormconfig.json
+
+
+
 > Use PM2 packet to start server.js in production
 
 
