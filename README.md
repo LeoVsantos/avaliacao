@@ -1,12 +1,12 @@
 # DEALERSHIP API [CARS API]
 
-Aplicacao desenvolvida para fins de avaliacao tecnica
+Aplicação desenvolvida para fins de avaliacao técnica
 
 Conteudos abordados
   - TypeORM 
   - PostgreSQL
   - Relacionamento de dados (OneToMany, eager)
-  - jWT para autenticação
+  - JWT para autenticação
 
 # How to use
 
