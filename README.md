@@ -17,7 +17,7 @@ Conteudos abordados
 
  - Install all dependences
    `$ yarn`
- - Change `ormconfig.example.json` to `ormconfig.json` is a configuration to TYPEORM (PostgresSQL)
+ - Change `ormconfig.example.json` to `ormconfig.json` is a configuration to TYPEORM (PostgreSQL)
  - It uses `$ yarn typeorm migration:run` to execute migrations.
  
 # Run the APP Dev server
