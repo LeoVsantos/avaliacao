@@ -25,6 +25,8 @@ Conteudos abordados
 # API REST
 > The REST API to the example app is described below.
 
+> API deploy in endpoint https://api.newagecorp.tech/
+
 ### Request
 ### Create a new user
 `POST /users/`
