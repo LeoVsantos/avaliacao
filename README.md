@@ -9,8 +9,9 @@ Conteudos abordados
   - JWT para autenticação
   
   
-# available to use
+# Available to use
 > API deploy in endpoint https://api.newagecorp.tech/ for testing purposes 
+
 
 # How to use
 
