@@ -220,7 +220,7 @@ It will generate the dist folder
 
 
 
-> Use PM2 packet to start server.js in production
+> Use PM2 package to start server.js in production
 
 
 
