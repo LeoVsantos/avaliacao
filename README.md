@@ -66,6 +66,11 @@ Conteudos abordados
         "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTg0MjE0NjIsImV4cCI6MTU5ODUwNzg2Miwic3ViIjoiOTVhNTQwM2EtMGI2NS00MmQ0LTk2YWMtYTFlMWQ4OWI2ODZmIn0.GUESKRO0SHvxvHXD_pt8frZrCPRIvRA3RE6Ut31-J4I"
     }
     
+----
+### Example Header next requests
+
+> Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTg0MjE0NjIsImV4cCI6MTU5ODUwNzg2Miwic3ViIjoiOTVhNTQwM2EtMGI2NS00MmQ0LTk2YWMtYTFlMWQ4OWI2ODZmIn0.GUESKRO0SHvxvHXD_pt8frZrCPRIvRA3RE6Ut31-J4I
+
 
 ----
 ### Add new vehicle
