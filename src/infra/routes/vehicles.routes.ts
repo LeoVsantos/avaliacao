@@ -15,7 +15,7 @@ vehiclesRouter.post(
       brand: Joi.string().required().lowercase(),
       model: Joi.string().required().lowercase(),
       year: Joi.number().required(),
-      fuel: Joi.string().lowercase(),
+      fuel: Joi.string().lowercase().valid('gasoline', 'alcohol', 'flex'),
       color: Joi.string().required().lowercase(),
       price: Joi.number().required(),
       category: Joi.string().required().lowercase(),
@@ -55,10 +55,13 @@ vehiclesRouter.put(
       brand: Joi.string().lowercase().required(),
       model: Joi.string().lowercase().required(),
       year: Joi.number().required(),
-      fuel: Joi.string().lowercase().required(),
+      fuel: Joi.string()
+        .lowercase()
+        .required()
+        .valid('gasoline', 'alcohol', 'flex'),
       color: Joi.string().lowercase().required(),
       price: Joi.number().required(),
-      category: Joi.string().lowercase(),
+      category: Joi.string().lowercase().required(),
     },
   }),
   vehicleController.update,

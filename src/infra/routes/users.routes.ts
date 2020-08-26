@@ -18,8 +18,4 @@ usersRouter.post(
   userController.create,
 );
 
-// teachersRouter.post('/forgot', async (request, response) => {
-//   const { email } = request.body;
-// });
-
 export default usersRouter;
