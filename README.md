@@ -7,6 +7,10 @@ Conteudos abordados
   - PostgreSQL
   - Relacionamento de dados (OneToMany, eager)
   - JWT para autenticação
+  
+  
+# available to use
+> API deploy in endpoint https://api.newagecorp.tech/ for testing purposes 
 
 # How to use
 
@@ -24,8 +28,6 @@ Conteudos abordados
 
 # API REST
 > The REST API to the example app is described below.
-
-> API deploy in endpoint https://api.newagecorp.tech/
 
 ### Request
 ### Create a new user
